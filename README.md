@@ -16,7 +16,7 @@
 ### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
 **Crearea si modificarea tabelelor**
 
-### [Lab 4]()
+### [Lab 4](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%234.md)
 **Editorul de interogari Transact-SQL**
 
 ### [Lab 5]()
