@@ -15,7 +15,7 @@
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. During laboratory work should be completed 30% of requirements in order to get high mark (9-10)
-  2. The laboratory requirement should be accomplished on MSSQL and Oracle
+  2. The laboratory requirement should be accomplished on ***MSSQL and Oracle***
   2. You must elaborate a Report which will contain your work-flow and your conclusions.
     - Laboratory work paper Dead Line is due to next laboratory, and the report must be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have all the mentioned execises 
