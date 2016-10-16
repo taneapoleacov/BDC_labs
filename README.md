@@ -10,21 +10,21 @@ Instalarea si configurarea soft-ului necesar
   - Instalarea si configurarea Oracle-ului (versiunea 12c)
 
 ### [Lab 2]()
-Crearea si intretinerea baze de date
+**Crearea si intretinerea baze de date**
 
 ### [Lab 3]()
-Crearea si modificarea tabelelor
+**Crearea si modificarea tabelelor**
 
 ### [Lab 4]()
-Editorul de interogari Transact-SQL
+**Editorul de interogari Transact-SQL**
 
 ### [Lab 5]()
-Crearea tabelelor si indecsilor
+**Crearea tabelelor si indecsilor**
 
 ### [Lab 6]()
-Diagrame, scheme si sinonime
+**Diagrame, scheme si sinonime**
 
 ### [Lab 7]()
-Administrarea viziunilor
+**Administrarea viziunilor**
   
 
