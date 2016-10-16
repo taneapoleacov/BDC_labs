@@ -1,5 +1,5 @@
 # Baze de Date si Cunostinte
-Conditiile pentru lucrarile de laborator la MIDPS, Frecventa redusa
+Conditiile pentru lucrarile de laborator la BDC
 
  Raportul se va expedia in varianta Latex conform DL-ului
 ## Cuprins
