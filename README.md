@@ -10,7 +10,7 @@
   - Instalarea si configurarea Microsoft SQL serverului (versiunea 2012 si up)
   - Instalarea si configurarea Oracle-ului (versiunea 12c)
 
-### [Lab 2]()
+### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
 **Crearea si intretinerea baze de date**
 
 ### [Lab 3]()
