@@ -1,5 +1,6 @@
 # Baze de Date si Cunostinte
-Conditiile pentru lucrarile de laborator la BDC
+[Conditiile pentru lucrarile de laborator la BDC](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+
 
  Raportul se va expedia in varianta Latex conform DL-ului
 ## Cuprins
