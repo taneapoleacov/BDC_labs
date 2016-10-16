@@ -22,7 +22,7 @@
   
 ### Laboratory Requirements:
    1. Conditiile laboratorului # 2 [pag 35](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
-   2. Efectuarea exercitiilor practice [pag 53-54]
+   2. Efectuarea exercitiilor practice [sf capitolului]
 
 
 
