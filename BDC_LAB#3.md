@@ -7,8 +7,9 @@
   - Oracle 11g/12c
 
 ### Objectives:
-  - Instalation of the software
-  - Ability to work with database software
+  - T-SQL and Oracle data types
+  - Constraints
+  - Creation, rename and update table
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
