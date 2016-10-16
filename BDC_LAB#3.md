@@ -26,6 +26,7 @@
    Conditiile laboratorului # 3 [pag 55](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
    
 ### References:
+  - [Adding, removing, modifying data](http://www.oracle.com/technetwork/developer-tools/sql-developer/update-intro-1-161242.html#add)
   - [Oracle data types](https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm)
   - [Oracle Constraints types](http://www.dba-oracle.com/concepts/constraints_foreign_key_unique_not_null.htm)
   - [How to use the SQL Worksheet in SQL Developer to Insert, Update and Delete Data](http://www.oracle.com/technetwork/developer-tools/sql-developer/update-intro-1-161242.html#add)
