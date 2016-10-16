@@ -22,7 +22,7 @@
   3. You must pass the quiz
   
 ### Laboratory Requirements:
-   Conditiile laboratorului # 3 [pag 35](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+   Conditiile laboratorului # 3 [pag 55](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
    
 ### References:
   - [Oracle data types](https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm)
