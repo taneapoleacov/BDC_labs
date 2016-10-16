@@ -13,7 +13,7 @@
 ### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
 **Crearea si intretinerea baze de date**
 
-### [Lab 3]()
+### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
 **Crearea si modificarea tabelelor**
 
 ### [Lab 4]()
