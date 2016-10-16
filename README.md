@@ -7,7 +7,7 @@ Conditiile pentru lucrarile de laborator la MIDPS, Frecventa redusa
 ### [Lab 1]()
 Instalarea si configurarea soft-ului necesar
   - Instalarea si configurarea Microsoft SQL serverului (versiunea 2012 si up)
-  - Instalarea si configurarea Oracle-ului (vesiunea 12c)
+  - Instalarea si configurarea Oracle-ului (versiunea 12c)
 
 ### [Lab 2]()
 Crearea si intretinerea baze de date
