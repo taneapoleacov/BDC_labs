@@ -5,7 +5,7 @@
  Raportul se va expedia in varianta Latex conform DL-ului
 ## Cuprins
 
-### [Lab 1]()
+### [Lab 1](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%231.md)
 **Instalarea si configurarea soft-ului necesar**
   - Instalarea si configurarea Microsoft SQL serverului (versiunea 2012 si up)
   - Instalarea si configurarea Oracle-ului (versiunea 12c)
