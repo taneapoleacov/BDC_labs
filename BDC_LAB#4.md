@@ -21,7 +21,7 @@
   4. You must pass the quiz
   
 ### Laboratory Requirements:
-   1. Laboratory work # 4 requirements [pag 71](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+   1. Laboratory work # 4 requirements [cap 4](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
    2. Tasks must be fulfilled on both T-SQL and PL/SQL language and screens attached for both of them also.
    
 ### References:
