@@ -21,7 +21,7 @@
   3. You must pass the quiz
   
 ### Laboratory Requirements:
-   1. Conditiile laboratorului # 2 [pag 35](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+   1. Conditiile laboratorului # 2 [cap 2](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
    2. Efectuarea exercitiilor practice [sf capitolului]
 
 
