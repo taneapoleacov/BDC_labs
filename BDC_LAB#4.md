@@ -22,7 +22,8 @@
   
 ### Laboratory Requirements:
    1. Laboratory work # 4 requirements [cap 4](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
-   2. Tasks must be fulfilled on both T-SQL and PL/SQL language and screens attached for both of them also.
+   2. Tasks must be fulfilled on both MSSQL and Oracle language and screens attached for both of them also.
+   3. From the list of queries, choose 5 randomly (different difficulty)
    
 ### References:
   - [PL/SQL Language Elements](https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/selectinto_statement.htm)
