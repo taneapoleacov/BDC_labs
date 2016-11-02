@@ -1,5 +1,6 @@
 # Baze de Date si Cunostinte
 [Conditiile pentru lucrarile de laborator la BDC - MSSQL](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+
 [Conditiile pentru lucrarile de laborator la BDC - Oracle](https://drive.google.com/open?id=0B-b6xKAweMRhY1I0ellOdWRqekE)
 
 [Exercitiile de la partea practica](https://drive.google.com/file/d/0B-b6xKAweMRhaEVtVWtSa0E0V3c/view?usp=sharing)
