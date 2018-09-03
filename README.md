@@ -11,6 +11,7 @@
 
 ### [Lab 1](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%231.md)
 **SQL Server Installation**
+
 https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installation-for-sql-server?view=sql-server-2017
   
 [Useful links]
