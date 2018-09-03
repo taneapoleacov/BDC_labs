@@ -23,9 +23,17 @@ https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installatio
 
 
 ### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
-**Crearea si intretinerea baze de date**
+**Database Creation and Maintenance Tools**
+
+* Use the Maintenance Plan Wizard 
+https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-2017
+* https://www.lifewire.com/creating-sql-server-database-maintenance-plan-1019879 
 
 ### [Lab 3]()
+**Database Creation and Manipulation DML**
+* SQL Server Data Types and Functions
+* SQL Constraints
+* DML
 
 ### [Lab 4]()
 
