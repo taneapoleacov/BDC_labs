@@ -12,15 +12,6 @@
 ### [Lab 1](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%231.md)
 **SQL Server Installation**
 
-https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installation-for-sql-server?view=sql-server-2017
-  
-[Useful links]
-* https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-
-* https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
-
-* https://archive.codeplex.com/?p=msftdbprodsamples
-
 
 ### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
 **Database Creation and Maintenance Tools**
