@@ -6,30 +6,35 @@
 [Exercitiile de la partea practica](https://drive.google.com/file/d/0B-b6xKAweMRhaEVtVWtSa0E0V3c/view?usp=sharing)
 
 
- Raportul se va expedia in varianta Latex conform DL-ului
+ "Raportul" se va efectua intr-un readme file conform DL-ului
 ## Cuprins
 
 ### [Lab 1](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%231.md)
-**Instalarea si configurarea soft-ului necesar**
-  - Instalarea si configurarea Microsoft SQL serverului (versiunea 2012 si up)
-  - Instalarea si configurarea Oracle-ului (versiunea 12c)
+**SQL Server Installation**
+https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installation-for-sql-server?view=sql-server-2017
+  
+[Useful links]
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+https://archive.codeplex.com/?p=msftdbprodsamples
+
 
 ### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
 **Crearea si intretinerea baze de date**
 
-### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
-**Crearea si modificarea tabelelor**
+### [Lab 3]()
 
-### [Lab 4](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%234.md)
-**Editorul de interogari Transact-SQL**
+### [Lab 4]()
 
 ### [Lab 5]()
-**Crearea tabelelor si indecsilor**
+
 
 ### [Lab 6]()
-**Diagrame, scheme si sinonime**
+
 
 ### [Lab 7]()
-**Administrarea viziunilor**
+
   
 
