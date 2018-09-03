@@ -12,13 +12,8 @@
 ### [Lab 1](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%231.md)
 **SQL Server Installation**
 
-
 ### [Lab 2](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%232.md)
 **Database Creation and Maintenance Tools**
-
-* Use the Maintenance Plan Wizard 
-https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-2017
-* https://www.lifewire.com/creating-sql-server-database-maintenance-plan-1019879 
 
 ### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
 **Database Creation and Manipulation. DML**
