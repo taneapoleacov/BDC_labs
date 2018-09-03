@@ -1,6 +1,6 @@
 ## Databases Laboratory Work #2
 
-## Crearea si intretinerea baze de date
+## Database Creation and Maintenance Tools
 
 ### Prerequisites:
   - Microsoft SQL Server 2012
