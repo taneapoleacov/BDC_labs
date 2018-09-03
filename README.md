@@ -21,10 +21,7 @@ https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-
 * https://www.lifewire.com/creating-sql-server-database-maintenance-plan-1019879 
 
 ### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
-**Database Creation and Manipulation DML**
-* SQL Server Data Types and Functions
-* SQL Constraints
-* DML
+**Database Creation and Manipulation. DML**
 
 ### [Lab 4]()
 
