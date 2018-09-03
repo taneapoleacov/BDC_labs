@@ -13,16 +13,19 @@
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
-  1. During laboratory work should be completed 30% of requirements in order to get high mark (9-10)
+  1. During laboratory work should be completed 50% of requirements in order to get high mark (9-10)
   2. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is due to next laboratory, and the report must be sent to my email in an appropriate format (such as PDF format).
-    - Laboratory work paper must have all the mentioned execises 
-    - Laboratory work paper must have a conclusion of: 0.5 pages
+    - Laboratory work Dead Line is due to next laboratory, and the report must be sent to my email in an appropriate format (readme file, md in git).
   3. You must pass the quiz
   
 ### Laboratory Requirements:
-   1. Conditiile laboratorului # 2 [cap 2](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
-   2. Efectuarea exercitiilor practice [sf capitolului]
+   1. Tasks lab # 2 [cap 2](https://drive.google.com/open?id=0B-b6xKAweMRhbGZHT2V5MlJHZDQ)
+   2. Practical exercises [the end of the chapter #2]
+   
+   [Useful links]
+   
+* [Use the Maintenance Plan Wizard](https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-2017)
+* https://www.lifewire.com/creating-sql-server-database-maintenance-plan-1019879 
 
 
 
